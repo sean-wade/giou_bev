@@ -1,0 +1,5 @@
+# ninja log v5
+0	7589	1660098716727971942	/home/zhanghao/code/others/zh/giou/giou_cpp/build/temp.linux-x86_64-3.6/zh_bev_iou/src/beviou_cpu.o	cced3437051f4aa6
+0	10769	1660098719907989685	/home/zhanghao/code/others/zh/giou/giou_cpp/build/temp.linux-x86_64-3.6/zh_bev_iou/src/beviou_api.o	f02f89ae10f06fe4
+0	7169	1660099083253694340	/home/zhanghao/code/others/zh/giou/giou_cpp/build/temp.linux-x86_64-3.6/zh_bev_iou/src/beviou_cpu.o	cced3437051f4aa6
+1	7180	1660099545027300824	/home/zhanghao/code/others/zh/giou/giou_cpp/build/temp.linux-x86_64-3.6/zh_bev_iou/src/beviou_cpu.o	cced3437051f4aa6

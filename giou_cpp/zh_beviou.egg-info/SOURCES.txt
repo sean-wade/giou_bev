@@ -1,0 +1,8 @@
+setup.py
+zh_bev_iou/src/beviou_api.cpp
+zh_bev_iou/src/beviou_cpu.cpp
+zh_beviou.egg-info/PKG-INFO
+zh_beviou.egg-info/SOURCES.txt
+zh_beviou.egg-info/dependency_links.txt
+zh_beviou.egg-info/requires.txt
+zh_beviou.egg-info/top_level.txt
