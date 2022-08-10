@@ -45,7 +45,7 @@ if __name__ == '__main__':
             'torch>=1.1',
         ],
         author='Sean Wade',
-        author_email='zhanghao2@sg.cambricon.com',
+        author_email='954217436@qq.com',
         license='Apache License 2.0',
         packages=find_packages(),    # exclude=['']
         cmdclass={
